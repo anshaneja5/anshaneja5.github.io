@@ -18,7 +18,7 @@ I'm constantly learning and applying new technologies to solve complex problems,
 ## 🛠️ Technologies & Tools
 
 - **Programming Languages**: Python, JavaScript, C++
-- **Frameworks**: TensorFlow, Keras, PyTorch, ReactJS, Flask, Express
+- **Frameworks**: TensorFlow, Keras, ReactJS, Flask, Express
 - **Web Development**: MERN stack (MongoDB, Express, React, Node.js), TailwindCSS
 - **Machine Learning & Deep Learning**: Scikit-learn, TensorFlow, Keras, OpenCV
 - **Databases**: MongoDB, MySQL
@@ -29,25 +29,22 @@ I'm constantly learning and applying new technologies to solve complex problems,
 
 Explore some of the key projects I've worked on:
 
-1. **Doodle Predictor**  
+1. **Doodle Predictor :**  
    A real-time doodle classification app using CNNs and Google’s QuickDraw dataset.  
-   [Learn More](https://github.com/anshaneja5/Doodle-Predictor)
+   [Learn More](https://github.com/anshaneja5/doooodle)
 
-2. **Image Captioning with Attention**  
+2. **Image Captioning with Attention :**  
    Implemented an attention-based image captioning model using DenseNet201 and LSTM.  
-   [Learn More](https://github.com/anshaneja5/Image-Captioning)
+   [Learn More](https://github.com/anshaneja5/img-cap-model)
 
-3. **Women’s Safety App (In Progress)**  
-   A mobile application focused on providing real-time safety scores and route suggestions using crowdsourced data.
-
-4. **Roadmap App for ML & DL**  
-   A roadmap for students to learn Machine Learning and Deep Learning, inspired by roadmap.sh.  
-   [Learn More](https://github.com/anshaneja5/roadmap-app)
-
-5. **Quora Question Pairs**  
+3. **Quora Question Pairs :**
    A project that uses a RandomForestClassifier to detect duplicate questions on Quora.  
-   [Learn More](https://github.com/anshaneja5/Quora-Question-Pairs)
+   [Learn More](https://github.com/anshaneja5/quora-question-pairs)
 
+4. **StudyNotion :**
+   StudyNotion is a fully functional ed-tech platform that enables users to create, consume, and rate educational content.
+   [Learn More](https://studynotionproject.vercel.app/)
+   
 ---
 
 ## 📫 Contact Me

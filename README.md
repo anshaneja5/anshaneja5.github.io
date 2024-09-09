@@ -34,7 +34,7 @@ Explore some of the key projects I've worked on:
    [Learn More](https://github.com/anshaneja5/doooodle)
 
 2. **Image Captioning with Attention :**  
-   Implemented an attention-based image captioning model using DenseNet201 and LSTM.  
+   Implemented an image captioning model using DenseNet201 and LSTM.  
    [Learn More](https://github.com/anshaneja5/img-cap-model)
 
 3. **Quora Question Pairs :**
